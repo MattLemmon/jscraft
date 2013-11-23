@@ -18,7 +18,8 @@ RESOURCES
 
 
 BUIlDINGS
-
+  Farm
+  Rampart
 
 
 
