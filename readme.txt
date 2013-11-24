@@ -28,7 +28,7 @@ FEATURES
   Mouse Selection
   Unit Movement
   Intro Screen
-  Networking
+  Networking - playing over the internet
   Map / Minimap
 
 

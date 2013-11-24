@@ -3,12 +3,16 @@
 
   <body onload="gameLoop()"
         onkeydown="keyDown(event)"
-        onkeyup="keyUp(event)">
+        onkeyup="keyUp(event)"
+		oncontextmenu="rightClick(event); return false;">
 
-    <img  id='character' src='img/doug.png'
+    <img  id='doug' src='img/doug.png'
           style='position:absolute;height:64;width:64;'/>
 
-    <p> use arrows </p>
+    <img  id='joe' src='img/joe.png'
+          style='position:absolute;height:64;width:64;'/>
+
+    <p> use arrows and mouse right-click</p>
   </body>
 </html>                  <!--Thank You to StackOverflow users Quinn and Dalal-->
 
